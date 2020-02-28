@@ -1,5 +1,4 @@
-# CCNA
-Un résumé du cours de découverte des réseaux Cisco
+# CCNA 1 - Introduction to Networking
 
 * [Chapitre 1 : Exploration du réseau](./Exploration-du-réseau.md)
 * [Chapitre 2 : Configuration d'un système d'exploitation](./Configuration-d'un-système-d'exploitation-réseau.md)
