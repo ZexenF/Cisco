@@ -11,3 +11,7 @@
 * [Chapitre 9 : Couche transport](./9.Couche-transport.md)
 * [Chapitre 10 : Couche application](./10.Couche-application.md)
 * [Chapitre 11 : Conception d'un réseau de petite taille](./11.Conception-d-un-reseau-de-petite-taille.md)
+
+
+chapt done : 1-2-4-5
+to do : 3-6-7-8-9-10-11
