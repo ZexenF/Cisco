@@ -13,5 +13,5 @@
 * [Chapitre 11 : Conception d'un réseau de petite taille](./11.Conception-d-un-reseau-de-petite-taille.md)
 
 
-chapt done : 1-2-4-5
-to do : 3-6-7-8-9-10-11
+*[chapt done : 1-2-3-4-5]
+*[to do : 6-7-8-9-10-11]
